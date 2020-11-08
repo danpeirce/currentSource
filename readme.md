@@ -1,6 +1,7 @@
 # MOSFET Current Source
 
-Made a current source using a IRLD024 Power MOSFET.
+Made a current source using a [IRLD024 Power MOSFET](https://www.vishay.com/docs/91308/sihld24.pdf).
+Checking the [datasheet for the LED](https://www.ttelectronics.com/TTElectronics/media/ProductFiles/Optoelectronics/Datasheets/OVLL.pdf) now I see the maximum continuous current is 50mA. I thought it was 70 mA.
 
 ![](currentSource.png)
 
